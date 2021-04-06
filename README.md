@@ -43,6 +43,8 @@ message.setFrom(new InternetAddress(this.smtpFrom, "National University of Singa
 **View before** opening the mail will be as bellow:
 ![renameEmail 2 1](https://user-images.githubusercontent.com/73774433/113710262-4ef14f00-9705-11eb-9026-d47e218f8217.JPG)
 
+Basically daihan.work is the username which is displayed before opening the mail. This is what we actually see as usual .
+
 **View after** opening the mail will be as bellow:
 ![renameEmail 2 2](https://user-images.githubusercontent.com/73774433/113710324-5e709800-9705-11eb-9b0b-a7688f4de94e.png)
 
