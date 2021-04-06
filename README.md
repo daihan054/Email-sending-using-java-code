@@ -32,14 +32,14 @@ In my EmailMessenger.java code in line number 121 there has a line
 ```java
 message.setFrom(new InternetAddress(this.smtpFrom, "National University of Singapore")); // from , view
 ```
-#### if we use the above line
+#### if we use the 121 line's code
 **View before** opening the mail will be as bellow:
 ![renameEmail group 1 2](https://user-images.githubusercontent.com/73774433/113709691-9d521e00-9704-11eb-9663-5e611536e99d.JPG)
 
 **View after** opening the mail will be as bellow:
 ![renameEmail group 1 1](https://user-images.githubusercontent.com/73774433/113709843-cd012600-9704-11eb-8ca7-0e38df74cf25.png)
 
-#### if we don't use the above line
+#### if we don't use the 121 line's code
 **View before** opening the mail will be as bellow:
 ![renameEmail 2 1](https://user-images.githubusercontent.com/73774433/113710262-4ef14f00-9705-11eb-9026-d47e218f8217.JPG)
 
