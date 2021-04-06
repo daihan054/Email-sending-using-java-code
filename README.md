@@ -1,4 +1,4 @@
-# Email Sending using microsoft exchange server and smtp
+# Email Sending Using Microsoft Exchange Server and SMTP
 This is a basic code for sending mail via EWS and SMTP
 
 ## EWS - Microsoft Exchange Server
