@@ -45,3 +45,7 @@ message.setFrom(new InternetAddress(this.smtpFrom, "National University of Singa
 
 **View after** opening the mail will be as bellow:
 ![renameEmail 2 2](https://user-images.githubusercontent.com/73774433/113710324-5e709800-9705-11eb-9b0b-a7688f4de94e.png)
+
+## References
+1. [ews - Stackoverflow](https://stackoverflow.com/questions/1713116/javamail-exchange-authentication)
+2. [smtp - Stackoverflow](https://stackoverflow.com/questions/46663/how-can-i-send-an-email-by-java-application-using-gmail-yahoo-or-hotmail)
